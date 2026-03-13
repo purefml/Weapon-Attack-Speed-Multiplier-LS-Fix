@@ -1,7 +1,7 @@
 # Attack Speed Multiplier Iai Sheath Fix (Longsword)
-- Enhances existing attack speed mutiplier mod to handle issue with mod conflict, in terms of Longsword Special Sheath. instead of forcing compatibilities, additional flag is added.
+- Enhances existing attack speed mutiplier mod to handle issue with mod conflict, in terms of Longsword Special Sheath. instead of forcing compatibilities, additional logic was added.
 
-# Known Conflicts that has been addressed.
+# Known Conflicts that have been addressed.
 - Ignores Quick Sheath Decoration
 - Faster Iai Sheathing Reduces Iai sheathing time for faster transitions. (+15%) [WpSeries-LongSword - By MoMo](https://www.nexusmods.com/monsterhunterwilds/mods/3744)
 
