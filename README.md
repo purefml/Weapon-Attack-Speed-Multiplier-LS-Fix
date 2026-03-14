@@ -3,7 +3,7 @@
 
 # Known Conflicts that have been addressed.
 - Ignores Quick Sheath Decoration
-- Faster Iai Sheathing Reduces Iai sheathing time for faster transitions. (+15%) [WpSeries-LongSword - By MoMo](https://www.nexusmods.com/monsterhunterwilds/mods/3744)
+- Faster Iai Sheathing Reduces Iai sheathing time for faster transitions. (+15%) [WpSeries-LongSword](https://www.nexusmods.com/monsterhunterwilds/mods/3744)
 
 # Installation
 - Requires latest Reframework [REFramework Nighly Release](https://github.com/praydog/REFramework-nightly/releases)
