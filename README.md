@@ -21,8 +21,8 @@
 
 # Notes
 
-- Recommended multipliers: x1.50.
-- Setting excessively high multipliers (>1.50) may cause unexpected behavior / instant sheath.
+- Recommended Sheath Multiplier (Longsword Iai Boost Speed): x1.50 // equivalent to having quicksheath Decoration.
+- Setting excessively high multipliers for the attack speed (>1.15-1.50) may cause unexpected behavior / instant sheath.
 - Works only with the LongSword (cHunterWp00Handling).
 
 # Credits
